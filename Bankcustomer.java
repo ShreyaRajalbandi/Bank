@@ -15,4 +15,5 @@ public class Bankcustomer {
     public static void main(String[]args){
         Bankcustomer bc= new Bankcustomer("Ariha","SBI500",20);
         bc.DisplayCustomer();
+    }
 }
